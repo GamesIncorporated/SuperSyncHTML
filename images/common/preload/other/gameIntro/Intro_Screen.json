@@ -1,0 +1,30 @@
+{"frames": {
+
+"Page_1.png":
+{
+	"frame": {"x":1,"y":1,"w":606,"h":362},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":606,"h":362},
+	"sourceSize": {"w":606,"h":362},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Page_2.png":
+{
+	"frame": {"x":1,"y":364,"w":606,"h":362},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":606,"h":362},
+	"sourceSize": {"w":606,"h":362},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Intro_Screen_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":608,"h":727},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:37b58e2e91b41df8baf6235254bebf11:d4420bbef56dec69dba734dbd0277fe2:05acbd7de2472491cacfed8ebd9fb47a$"
+}
+}

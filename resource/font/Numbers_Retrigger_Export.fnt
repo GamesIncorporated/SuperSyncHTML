@@ -1,0 +1,24 @@
+<font>
+	<info face="\\Ig-srv005\gaming_graphics\Plank Gaming\Super Sync\4_Delivery_Package\Common Package\Free_Spins_Retrigger\Numbers-export" size="80" />
+	<common lineHeight="80" scaleW="749" scaleH="653" pages="1" />
+	<pages>
+		<page id="0" file="\\Ig-srv005\gaming_graphics\Plank Gaming\Super Sync\4_Delivery_Package\Common Package\Free_Spins_Retrigger\Numbers-export.png" />
+	</pages>
+	<chars count="13">
+		<char id="43" x="189" y="218" width="175" height="176" xoffset="0" yoffset="-117" xadvance="176" /><!-- + -->
+		<char id="48" x="195" y="0" width="186" height="217" xoffset="0" yoffset="-137" xadvance="187" /><!-- 0 -->
+		<char id="49" x="563" y="433" width="150" height="215" xoffset="0" yoffset="-137" xadvance="151" /><!-- 1 -->
+		<char id="50" x="0" y="216" width="188" height="215" xoffset="0" yoffset="-137" xadvance="189" /><!-- 2 -->
+		<char id="51" x="376" y="435" width="186" height="217" xoffset="0" yoffset="-137" xadvance="187" /><!-- 3 -->
+		<char id="52" x="0" y="0" width="194" height="215" xoffset="0" yoffset="-137" xadvance="195" /><!-- 4 -->
+		<char id="53" x="376" y="218" width="186" height="216" xoffset="0" yoffset="-136" xadvance="187" /><!-- 5 -->
+		<char id="54" x="188" y="432" width="187" height="217" xoffset="0" yoffset="-137" xadvance="188" /><!-- 6 -->
+		<char id="55" x="563" y="218" width="185" height="214" xoffset="0" yoffset="-136" xadvance="186" /><!-- 7 -->
+		<char id="56" x="382" y="0" width="185" height="217" xoffset="0" yoffset="-137" xadvance="186" /><!-- 8 -->
+		<char id="57" x="0" y="432" width="187" height="217" xoffset="0" yoffset="-137" xadvance="188" /><!-- 9 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

@@ -1,0 +1,286 @@
+
+basegame_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_background_darker
+  rotate: false
+  xy: 2, 1174
+  size: 760, 760
+  orig: 760, 760
+  offset: 0, 0
+  index: -1
+basegame_background_darker_grid
+  rotate: false
+  xy: 2, 412
+  size: 760, 760
+  orig: 760, 760
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00000
+  rotate: true
+  xy: 605, 239
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00001
+  rotate: false
+  xy: 965, 1187
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00002
+  rotate: false
+  xy: 1166, 1385
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00003
+  rotate: false
+  xy: 1367, 1583
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00004
+  rotate: false
+  xy: 1568, 1781
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00005
+  rotate: false
+  xy: 764, 791
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00006
+  rotate: true
+  xy: 605, 66
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00007
+  rotate: false
+  xy: 965, 1032
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00008
+  rotate: false
+  xy: 1741, 1781
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00009
+  rotate: false
+  xy: 764, 636
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00010
+  rotate: false
+  xy: 764, 481
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00011
+  rotate: false
+  xy: 965, 877
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00012
+  rotate: false
+  xy: 937, 722
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00013
+  rotate: false
+  xy: 937, 567
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00014
+  rotate: false
+  xy: 937, 412
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00015
+  rotate: false
+  xy: 764, 326
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00016
+  rotate: false
+  xy: 760, 171
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00017
+  rotate: false
+  xy: 760, 16
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00018
+  rotate: false
+  xy: 937, 257
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_00019
+  rotate: false
+  xy: 933, 102
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00000
+  rotate: false
+  xy: 764, 1738
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00001
+  rotate: false
+  xy: 2, 214
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00002
+  rotate: false
+  xy: 764, 1540
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00003
+  rotate: false
+  xy: 965, 1738
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00004
+  rotate: false
+  xy: 2, 16
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00005
+  rotate: false
+  xy: 203, 214
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00006
+  rotate: false
+  xy: 764, 1342
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00007
+  rotate: false
+  xy: 965, 1540
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00008
+  rotate: false
+  xy: 1166, 1738
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00009
+  rotate: false
+  xy: 203, 16
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00010
+  rotate: false
+  xy: 404, 214
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00011
+  rotate: false
+  xy: 764, 1144
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00012
+  rotate: false
+  xy: 965, 1342
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00013
+  rotate: false
+  xy: 1166, 1540
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00014
+  rotate: false
+  xy: 1367, 1738
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00015
+  rotate: false
+  xy: 404, 16
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_fireworks_2_00016
+  rotate: false
+  xy: 764, 946
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+basegame_background_pixel
+  rotate: false
+  xy: 2, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,102 @@
+{"frames": {
+
+"Freespins.png":
+{
+	"frame": {"x":4,"y":4,"w":380,"h":239},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":239},
+	"sourceSize": {"w":380,"h":239},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"H1_Star.png":
+{
+	"frame": {"x":4,"y":247,"w":320,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":260},
+	"sourceSize": {"w":320,"h":260},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"H2_Bar.png":
+{
+	"frame": {"x":4,"y":511,"w":310,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":194},
+	"sourceSize": {"w":310,"h":194},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"H3_Red_777.png":
+{
+	"frame": {"x":4,"y":709,"w":300,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":189},
+	"sourceSize": {"w":300,"h":189},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"H4_Bell.png":
+{
+	"frame": {"x":4,"y":902,"w":280,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":176},
+	"sourceSize": {"w":280,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"H5_Diamond.png":
+{
+	"frame": {"x":4,"y":1082,"w":280,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":176},
+	"sourceSize": {"w":280,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"H6_Grapes.png":
+{
+	"frame": {"x":4,"y":1262,"w":280,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":176},
+	"sourceSize": {"w":280,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"H7_Lemon.png":
+{
+	"frame": {"x":4,"y":1442,"w":280,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":176},
+	"sourceSize": {"w":280,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"H8_Cherry.png":
+{
+	"frame": {"x":4,"y":1622,"w":300,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":189},
+	"sourceSize": {"w":300,"h":189},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Wild.png":
+{
+	"frame": {"x":4,"y":1815,"w":350,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":220},
+	"sourceSize": {"w":350,"h":220},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Symbols_blur_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":388,"h":2039},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:31818a5bc831a71ae6a9e40e5d4a7fd2:b94c5888df99224df1876602747c0d2b:bc5579a1f656fa1a31a8a78fed696117$"
+}
+}

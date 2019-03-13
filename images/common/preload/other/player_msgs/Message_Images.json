@@ -1,0 +1,102 @@
+{"frames": {
+
+"777.png":
+{
+	"frame": {"x":2,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Bar.png":
+{
+	"frame": {"x":43,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Bell.png":
+{
+	"frame": {"x":84,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Cherry.png":
+{
+	"frame": {"x":125,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Diamond.png":
+{
+	"frame": {"x":166,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Free_Spins.png":
+{
+	"frame": {"x":207,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Grapes.png":
+{
+	"frame": {"x":248,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"lemon.png":
+{
+	"frame": {"x":289,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"star.png":
+{
+	"frame": {"x":330,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Wild.png":
+{
+	"frame": {"x":371,"y":2,"w":39,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":28},
+	"sourceSize": {"w":39,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Message_Images_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":412,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6bf479c7030d856c9b03e2ecf150d486:1c09a5a4f373cb2e088b1511f10be821:20fb7f4efb27f563c91096a1459019d9$"
+}
+}

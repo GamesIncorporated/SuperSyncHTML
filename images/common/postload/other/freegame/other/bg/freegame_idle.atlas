@@ -1,0 +1,279 @@
+
+basegame_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freegame_background_darker
+  rotate: false
+  xy: 2, 1283
+  size: 760, 760
+  orig: 760, 760
+  offset: 0, 0
+  index: -1
+freegame_background_darker_grid
+  rotate: false
+  xy: 2, 521
+  size: 760, 760
+  orig: 760, 760
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00000
+  rotate: true
+  xy: 605, 348
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00001
+  rotate: false
+  xy: 1166, 1494
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00002
+  rotate: false
+  xy: 1367, 1692
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00003
+  rotate: false
+  xy: 1568, 1890
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00004
+  rotate: false
+  xy: 764, 900
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00005
+  rotate: false
+  xy: 965, 1098
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00006
+  rotate: true
+  xy: 605, 175
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00007
+  rotate: false
+  xy: 1166, 1339
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00008
+  rotate: false
+  xy: 1741, 1890
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00009
+  rotate: false
+  xy: 764, 745
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00010
+  rotate: false
+  xy: 764, 590
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00011
+  rotate: false
+  xy: 1166, 1184
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00012
+  rotate: false
+  xy: 764, 435
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00013
+  rotate: false
+  xy: 760, 280
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00014
+  rotate: false
+  xy: 760, 125
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00015
+  rotate: true
+  xy: 605, 2
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00016
+  rotate: false
+  xy: 1138, 1029
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_00017
+  rotate: false
+  xy: 965, 943
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00000
+  rotate: false
+  xy: 764, 1847
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00001
+  rotate: false
+  xy: 2, 323
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00002
+  rotate: false
+  xy: 764, 1649
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00003
+  rotate: false
+  xy: 965, 1847
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00004
+  rotate: false
+  xy: 2, 125
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00005
+  rotate: false
+  xy: 203, 323
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00006
+  rotate: false
+  xy: 764, 1451
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00007
+  rotate: false
+  xy: 965, 1649
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00008
+  rotate: false
+  xy: 1166, 1847
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00009
+  rotate: false
+  xy: 203, 125
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00010
+  rotate: false
+  xy: 404, 323
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00011
+  rotate: false
+  xy: 764, 1253
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00012
+  rotate: false
+  xy: 965, 1451
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00013
+  rotate: false
+  xy: 1166, 1649
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00014
+  rotate: false
+  xy: 1367, 1847
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00015
+  rotate: false
+  xy: 404, 125
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00016
+  rotate: false
+  xy: 764, 1055
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_fireworks_2_00017
+  rotate: false
+  xy: 965, 1253
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+freegame_background_pixel
+  rotate: false
+  xy: 1339, 1635
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
