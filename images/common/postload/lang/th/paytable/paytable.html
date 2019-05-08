@@ -1,0 +1,528 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+</head>
+
+<body>
+    <style>
+        body {
+            overflow-x: hidden;
+        }
+
+        table {
+            width: 95vw;
+        }
+
+        table p,
+        table td,
+        table tr {
+            color: black !important;
+            word-wrap: break-word;
+            -ms-word-break: break-word;
+            word-break: break-word;
+        }
+
+        .pad-left10 {
+            padding-left: 10px;
+        }
+
+        h1,
+        h2,
+        h3,
+        p,
+        ul {
+            color: white;
+        }
+
+        table p,
+        table td,
+        table tr {
+            color: black !important;
+        }
+
+        @media only screen and (min-width: 320px) and (max-width: 568px) and (-webkit-max-device-pixel-ratio: 2) {
+            body {
+                font-size: 12px !important;
+                word-wrap: break-word;
+            }
+            p {
+                max-width: 90vw;
+            }
+            ul>li {
+                max-width: 90vw;
+            }
+            ul:last-child {
+                height: auto;
+            }
+        }
+
+        @media only screen and (min-width: 320px) and (max-width: 568px) and (-webkit-max-device-pixel-ratio: 2) and (orientation: landscape) {
+            body {
+                font-size: .688em !important;
+            }
+            ul:last-child {
+                margin-bottom: 20em;
+            }
+        }
+
+        .para-box {
+            margin-bottom: 0cm;
+            font-size: 13px;
+            font-family: Calibri, serif;
+            line-height: 17px;
+            text-align: justify;
+        }
+
+        li p.para-box {
+            line-height: 100% !important;
+        }
+
+        table tr td {
+            font-size: 12px;
+            font-family: 'Segoe UI', serif;
+            line-height: 20px;
+        }
+
+        #tblGameButtons tr td:first-child,
+        #tblSettButtons tr td:nth-child(2) {
+            text-align: center;
+        }
+
+        table tr td img {
+            border: 0px;
+            max-width: 100%;
+            height: auto;
+        }
+
+        .wild-box {
+            margin: 10px;
+        }
+
+        .help-box::-webkit-scrollbar-track {
+            visibility: hidden;
+        }
+
+        .help-box::-webkit-scrollbar {
+            visibility: hidden;
+        }
+
+        .help-box::-webkit-scrollbar-thumb {
+            visibility: hidden;
+        }
+
+        .help-box {
+            width: 99%;
+            height: auto;
+            margin: 0 auto;
+            overflow: auto;
+            background: black;
+            padding: 0px 10px;
+        }
+    </style>
+
+    <body>
+        <div class="help-box" id="preventZoom">
+            <p class="para-box">
+                ยินดีต้อนรับเข้าสู่สล็อตวิดีโอ SUPER SYNC ซึ่งจำลองมาจากเกมสล็อตคลาสสิกที่มีสัญลักษณ์แบบคลาสสิก คุณสมบัติเกมที่มีการประสานวงล้อ คุณสมบัติการหมุนฟรี ล้อเสี่ยงโชค และคุณสมบัติที่น่าตื่นเต้นอีกมากมาย
+ </p>
+ 
+            <p class="para-box">
+                <b>เกี่ยวกับเกม
+ </b>
+            </p>
+            <p class="para-box pad-left10">
+                การประสานกันแบบทวีคูณเล่นได้ 27 วิธี เกมมี 8 สัญลักษณ์ปกติ, Wild 1 สัญลักษณ์ และการหมุนฟรี 1 สัญลักษณ์
+
+            </p>
+			
+			<p class="para-box">
+                <b>การประสานกันของวงล้อ
+ </b>
+            </p>
+            <p class="para-box pad-left10">
+             ทุกครั้งที่หมุน สองวงล้อที่อยู่ติดกันมีโอกาสประสานกันโดยการสุ่มด้วยสัญลักษณ์แบบเดียวกันc การประสานกันของสองวงล้อสามารถปรากฏติดกันได้ในวงล้ออันใดอันหนึ่งจาก 3 วงล้อ ขณะหมุน สองวงล้อที่ประสานกันสามารถขยายเพิ่มขึ้นเพื่อให้ได้รับการหมุนทวีคูณ โดยวงล้อทั้ง 3 จะกลายเป็นสัญลักษณ์แบบเดียวกัน
+
+            </p>
+			
+			<p class="para-box">
+                <b>ฟรีสปิน
+</b>
+            </p>
+            <p class="para-box pad-left10">
+             สัญลักษณ์การหมุนฟรี 3 ครั้งจะหมุนฟรีได้ 5 ครั้ง สัญลักษณ์การหมุนฟรี 2 ครั้ง จะเกิดขึ้นซ้ำผ่านวงล้อที่ได้รับการหมุนฟรีสูงสุด 10 ครั้ง หรือการหมุนทวีคูณ 5 ครั้ง สัญลักษณ์การหมุนฟรี 3 ครั้ง จะได้รับการหมุนฟรี 5 ครั้ง การหมุนฟรีที่เหลืออยู่ใด ๆ จะเล่นได้ตามการหมุนฟรีมาตรฐานหลังจากการหมุนทวีคูณ
+
+            </p>
+			
+            
+			
+			
+			 <p class="para-box">
+                <b>วิธีเล่น</b>
+            </p>
+            <ul>
+                <p class="para-box"></p>
+                <li>
+                    <p class="para-box">
+                        เลือกสกุลเงินเดิมพัน/เหรียญ
+                    </p>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <p class="para-box">
+                        คลิก (สำหรับเดสก์ท็อป) หรือแตะ (สำหรับมือถือ) ที่ปุ่มหมุนเพื่อเริ่มรอบเกม
+
+                    </p>
+                </li>
+            </ul>
+            <p class="para-box">
+                <b>ปุ่มเกม
+                </b>
+            </p>
+            <table id="tblGameButtons" width="510" border="1" cellpadding="7" cellspacing="0" style=" background-color: #ffffff; width: 100%">
+                <colgroup>
+                    <col width="89">
+                    <col width="90">
+                    <col width="118">
+                    <col width="155">
+                </colgroup>
+                <thead>
+                    <tr valign="TOP">
+                        <td width="89" bgcolor="#e6e6e6">
+                            <p lang="en-US" class="western" align="JUSTIFY" style="margin-top: 0.11cm">
+                                <b>ไอคอน</b>
+                            </p>
+                        </td>
+                        <td width="90" bgcolor="#e6e6e6">
+                            <p lang="en-US" class="western" align="JUSTIFY" style="margin-top: 0.11cm">
+                                <b>เดสก์ท็อป</b>
+                            </p>
+                        </td>
+                        <td width="118" bgcolor="#e6e6e6">
+                            <p lang="en-US" class="western" align="JUSTIFY" style="margin-top: 0.11cm">
+                                <b>โทรศัพท์มือถือ</b>
+                            </p>
+                        </td>
+                        <td width="155" bgcolor="#e6e6e6">
+                            <p lang="en-US" class="western" align="JUSTIFY" style="margin-top: 0.11cm">
+                                <b>แอคชั่น</b>
+                            </p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr valign="TOP">
+                        <td width="89">
+                            <p lang="en-US" class="western" align="CENTER" style="margin-top: 0.11cm">
+                                <img src="../../../other/paytable/Help_icons/Big_icon/Spin_Big.png" align="BOTTOM">
+                            </p>
+                        </td>
+                        <td width="90">
+                            <b>หมุน</b>
+                            </p>
+                        </td>
+                        <td width="118">
+                            <b>หมุน</b>
+                            </p>
+                        </td>
+                        <td width="155">
+                            เริ่มรอบเดี่ยว
+                            </p>
+                        </td>
+                    </tr>
+                    <tr valign="TOP">
+                        <td width="89">
+                            <img src="../../../other/paytable/Help_icons/Big_icon/Max_Bet_Big.png" align="BOTTOM">
+                        </td>
+                        <td width="90">
+                            <b>เดิมพันสูงสุด</b>
+                        </td>
+                        <td width="118">
+                            (อยู่ในหน้าจอการเลือกเงินเดิมพันภายในเมนูการตั้งค่า)
+                        </td>
+                        <td width="155">
+                            กำหนดค่าการเดิมพันไปที่ระดับเงินเดิมพันสูงสุด กดปุ่มหมุนเพื่อเริ่ม
+                        </td>
+                    </tr>
+                    <tr valign="TOP">
+                        <td width="89">
+                            <img src="../../../other/paytable/Help_icons/Big_icon/Autoplay.png" align="BOTTOM">
+                        </td>
+                        <td width="90">
+                            <b>เล่นอัตโนมัติ</b>
+                        </td>
+                        <td width="118">
+                            กดปุ่มหมุนค้างไว้เพื่อเล่นอัตโนมัติ (หรือที่มีในเมนูการตั้งค่า)
+                        </td>
+                        <td width="155">
+                            ตั้งค่าหน้าจอเมนูซึ่งแสดงตัวเลือกการเล่นอัตโนมัติทั้งหมดที่มีในเกม
+                            เพื่อเริ่มหลายรอบพร้อมกัน
+                        </td>
+                    </tr>
+                    <tr valign="TOP">
+                        <td width="89">
+                            <img src="../../../other/paytable/Help_icons/Big_icon/Bet_Settings.png" align="BOTTOM">
+                        </td>
+                        <td width="90">
+                            <b>การเลือกเงินเดิมพัน</b>
+                        </td>
+                        <td width="118">
+                            การเลือกเงินเดิมพัน (หรือที่มีในเมนูการตั้งค่า)
+                        </td>
+                        <td width="155">
+                            ตั้งค่าตัวเลือกเงินเดิมพันเพื่อให้ผู้เล่นเลือกระดับการเดิมพัน
+                        </td>
+                    </tr>
+                    <tr valign="TOP">
+                        <td width="89">
+                            <img src="../../../other/paytable/Help_icons/Big_icon/Settings_Menu.png" align="BOTTOM">
+                        </td>
+                        <td width="90">
+                            <b>เมนูการตั้งค่า</b>
+                        </td>
+                        <td width="118">
+                            <b>เมนูการตั้งค่า
+                            </b>
+                        </td>
+                        <td width="155">
+                            เปิดหน้าจอการตั้งค่าที่มีการนำเสนอต่อไปนี้แยกต่างหาก: หน้าแรก เสียง การตั้งค่าเกม ประวัติ
+                            ข้อมูล/ความช่วยเหลือ
+                            และแคชเชียร์ (หากจำเป็น)
+                        </td>
+                    </tr>
+                    <tr valign="TOP">
+                        <td width="89">
+                            <img src="../../../other/paytable/Help_icons/Big_icon/Audio.png" align="BOTTOM">
+                        </td>
+                        <td width="90">
+                            <b>เสียง</b>
+                        </td>
+                        <td width="118">
+                            (พื้นที่การตั้งค่าหลักมีในเมนูการตั้งค่า)
+                        </td>
+                        <td width="155">
+                            เดสก์ท็อป -
+                            เปิดเมนูการตั้งค่าเสียงเพื่ออนุญาตให้ผู้เล่นเปิดหรือปิดเพลงประกอบหรือเอฟเฟคได้อย่างอิสระ
+                        </td>
+                    </tr>
+                    <tr valign="TOP">
+                        <td width="89">
+                            <img src="../../../other/paytable/Help_icons/Big_icon/Turbo_Play.png" align="BOTTOM">
+                        </td>
+                        <td width="90">
+                            <b>เล่นแบบเทอร์โบ
+                            </b>
+                        </td>
+                        <td width="118">
+                            (มีในเมนูการตั้งค่าเกม)
+                        </td>
+                        <td width="155">
+                            เริ่มเปลี่ยนความเร็ววงล้อเป็นการหมุนเร็ว
+                        </td>
+                </tbody>
+            </table>
+            <p class="para-box">
+                <b>ปุ่มการตั้งค่า </b>
+                <table id="tblSettButtons" width="538" border="1" cellpadding="7" cellspacing="0" style=" background-color: #ffffff; width: 100%">
+                    <colgroup>
+                        <col width="136">
+                        <col width="71">
+                        <col width="287">
+                    </colgroup>
+                    <thead>
+                        <tr valign="TOP">
+                            <td width="136" bgcolor="#e6e6e6">
+                                <b>สัญลักษณ์</b>
+                            </td>
+                            <td width="71" bgcolor="#e6e6e6">
+                                <b>ไอคอน</b>
+                            </td>
+                            <td width="287" bgcolor="#e6e6e6">
+                                <b>การปฏิบัติ</b>
+                            </td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr valign="TOP">
+                            <td width="136">
+                                <b>ประวัติการเล่นเกม
+                                </b>
+                            </td>
+                            <td width="71">
+                                <img src="../../../other/paytable/Help_icons/Small_Icon/Game_History.png" align="BOTTOM">
+                            </td>
+                            <td width="287">
+                                แสดงให้ผู้เล่นเห็นรายการวงจรเกมที่เล่นภายในรอบเกมนั้น ๆ
+                            </td>
+                        </tr>
+                        <tr valign="TOP">
+                            <td width="136">
+                                <b>การตั้งค่าการเดิมพัน</b>
+                            </td>
+                            <td width="71">
+                                <p lang="en-US" class="western" align="CENTER" style="margin-top: 0.11cm">
+                                    <img src="../../../other/paytable/Help_icons/Small_Icon/Stake_Selection.png" align="BOTTOM">
+                                </p>
+                            </td>
+                            <td width="287">
+                                จากหน้านี้ ผู้เล่นสามารถกำหนดมูลค่าเงินเดิมพันสำหรับเกม หรือเลือกตัวเลือกอื่น ๆ ที่มี
+                            </td>
+                        </tr>
+
+
+                        <tr valign="TOP">
+                            <td width="136">
+                                <b>เล่นอัตโนมัติ</b>
+                            </td>
+                            <td width="71">
+                                <img src="../../../other/paytable/Help_icons/Small_Icon/Autoplays.png" align="BOTTOM">
+                            </td>
+                            <td width="287">
+                                เริ่มหน้าที่สามารถเลือกและเริ่มตัวเลือกมาตรฐานและการเล่นอัตโนมัติที่ครอบคลุมหลากหลาย รวมทั้งขีดจำกัดการเล่นเสีย
+                                (หากเป็นไปได้)
+                            </td>
+                        </tr>
+                        <tr valign="TOP">
+                            <td width="136">
+                                <b>การตั้งค่าเกม </b>
+                            </td>
+                            <td width="71">
+                                <img src="../../../other/paytable/Help_icons/Small_Icon/Game_Settings.png" align="BOTTOM">
+                            </td>
+                            <td width="287">
+                                แสดงตัวเลือกการตั้งค่าทั่วไปหลายแบบที่มี (เช่น
+                                การตั้งค่าเสียงที่ผู้เล่นเลือกได้ เพื่อกำหนดเสียงที่ต้องการให้เล่นระหว่างรอบ)
+                            </td>
+                        </tr>
+                        <tr valign="TOP">
+                            <td width="136">
+                                <b>หน้าแรก</b>
+                            </td>
+                            <td width="71">
+                                <img src="../../../other/paytable/Help_icons/Small_Icon/Home.png" align="BOTTOM">
+                            </td>
+                            <td width="287">
+                                ออกจากรอบเกมปัจจุบัน (ภายหลังข้อความสุดท้าย) และกลับไปยังหน้าเมนูเกมหลักของผู้ดำเนินการ
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p class="para-box">
+                    <b>ข้อมูลเกมอื่น ๆ</b>
+                </p>
+                <ul>
+                    <li>
+                        <p class="para-box">
+                           รวมผลชนะที่เกิดขึ้นพร้อมกันในวิธีต่าง ๆ เข้าด้วยกันและจ่ายให้กับผู้เล่น
+
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            มูลค่าเหรียญ - แสดงรางวัลเงินเดิมพันตามหลักของการตั้งค่าปัจจุบัน
+                            ผลชนะทั้งหมดจะปรากฏในรูปเหรียญสำหรับใช้คูณด้วยมูลค่าเหรียญ เพื่อแปลงเป็นผลชนะรางวัลเงินสด
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            เดิมพัน - แสดงมูลค่าเดิมพันของการตั้งค่าปัจจุบัน ขนาดเดิมพันคือ 1
+                            เหรียญคูณด้วยจำนวนเพย์ไลน์คงที่
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            เดิมพันสูงสุด (เดสก์ท็อปเท่านั้น) - ตั้งมูลค่าเหรียญให้มากที่สุด
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            เงินเดิมพันรวมคือมูลค่าเหรียญที่คูณด้วยตัวคูณเงินเดิมพัน ซึ่งคือ 10 เหรียญ
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            ปุ่มหมุน - เริ่มเกม ขณะที่วงล้อกำลังหมุน ปุ่มหมุนจะกลายเป็นปุ่มหยุดเทอร์โบ
+                            กดปุ่มหยุดเทอร์โบเพื่อหยุดวงล้อทันที
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            เล่นอัตโนมัติ - คุณสามารถตั้งให้เกมเล่นเองโดยไม่ต้องกดปุ่มหมุนทุกครั้ง
+                            เลือกจำนวนรอบเพื่อเล่นอัตโนมัติ
+                            โดยกดปุ่มเล่นอัตโนมัติ (หรือโดยกดปุ่มหมุนค้างไว้เพื่อเปิดเมนูการเล่นอัตโนมัติ
+                            (สำหรับโทรศัพท์มือถือ)) หากเป็นไปได้
+                            คุณสามารถเลือกเงื่อนไขเพิ่มเติมว่าจะหยุดการเล่นอัตโนมัติเมื่อใดในการตั้งค่าเกม
+                            ขีดจำกัดการเล่นเสียในบางเวอร์ชันที่เป็นลูกค้าของเกม
+                            จะป้องกันไม่ให้คุณเสียเงินเกินวงเงินจำกัดในระหว่างรอบการเล่นอัตโนมัติ
+                            กดปุ่มหยุดการเล่นอัตโนมัติ
+                            เพื่อหยุดการเล่นอัตโนมัติด้วยตนเอง
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            ผลชนะ - แสดงการชนะสำหรับผลชนะปัจจุบันหรือครั้งล่าสุดที่ได้รับเงิน
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            เงินสด/เหรียญ - แสดงยอดคงเหลือในบัญชีเป็นเงินสด (มูลค่าเป็นตัวเงิน) หรือเหรียญ
+                            (จำนวนเครดิต)
+                            โดยขึ้นอยู่กับการเลือกของผู้เล่น การแสดงผลค่าเริ่มต้นจะเป็นเงินสด
+                        </p>
+                    </li>
+                </ul>
+                <p class="para-box">
+                    <b>ผลตอบแทนแก่ผู้เล่น</b>
+                </p>
+                <ul>
+                    <li>
+                        <p class="para-box">
+                            อัตราผลตอบแทนแก่ผู้เล่นตามหลักโดยรวมเท่ากับ 95.98%.  
+                        </p>
+                    </li>
+                </ul>
+                <p class="para-box">
+                    <b>ข้อมูลเพิ่มเติม</b>
+                </p>
+                <ul>
+                    <li>
+                        <p class="para-box">
+                            ชุดรวมที่ชนะทั้งหมดจะจ่ายจากซ้ายไปขวาตามชุดรวมวิธี โดยแต่ละครั้งเริ่มที่วงล้อที่ 1 ยกเว้นชุดรวมแบบกระจายซึ่งอาจเกิดขึ้นในตำแหน่งใดก็ได้
+
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            การชนะที่ได้ภายในคุณลักษณะจะจ่ายเพิ่มให้กับชุดรวมของไลน์
+                        </p>
+                    </li>
+                    <li>
+                        <p class="para-box">
+                            หากเกิดเหตุบกพร่องของฮาร์ดแวร์/ซอฟต์แวร์การเล่นเกม
+                            การเดิมพันและการจ่ายเงินของเกมที่ได้รับผลกระทบทั้งหมดจะถือเป็นโมฆะ
+                            และการเดิมพันที่ได้รับผลกระทบจะได้รับเงินคืน
+                        </p>
+                    </li>
+
+                    <li>
+                        <p class="para-box">
+                            ผลชนะสูงสุดในเกมมีขีดจำกัดสูงสุดเทียบเท่า 250,000 ยูโร
+                        </p>
+                    </li>
+
+
+                    <li>
+                        <p class="para-box">
+                            <a name="_GoBack"></a>
+                            นี่เป็นกติกาของเกมเวอร์ชัน 1.0 ลงวันที่ 21/02/2019
+                        </p>
+                    </li>
+                </ul>
+        </div>
+    </body>
+</body>
+
+</html>

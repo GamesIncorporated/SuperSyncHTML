@@ -147,12 +147,12 @@
     },
     "Reels_spin3": {
       "start": 191,
-      "end": 191.75,
+      "end": 191.80979591836734,
       "loop": false
     },
     "Reels_Sync": {
       "start": 193,
-      "end": 197.1525850340136,
+      "end": 197.2057142857143,
       "loop": false
     },
     "Reel_stop": {
